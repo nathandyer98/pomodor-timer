@@ -61,7 +61,7 @@ function CountdownTimer({ sessionTime, breakTime, flag }) {
             setIsSession(true);
           }
         }
-      }, 100);
+      }, 1000);
       return () => {
         clearInterval(timer);
       };
