@@ -1,4 +1,4 @@
-# A Pomodoro Timer Webb App
+# A Pomodoro Timer Web App
 
 It is built on Vite using the React JS framework paired with CSS. This webapp utilises the React 'useState' and 'useEffect' hook.
 
